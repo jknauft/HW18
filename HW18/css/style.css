@@ -1,0 +1,25 @@
+.footer {
+    padding: 20px;
+    font-weight: bolder;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: right;
+}
+
+.card {
+    padding: 25px;
+    margin: 15px;
+    background-image: none;
+    background-color: white;
+    box-shadow: 20px 20px;
+}
+
+.space {
+    height: 100px;
+    margin: 100px;
+    padding: 50px;
+}
